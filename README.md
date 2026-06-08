@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. What is Machine Learning?
 Machine Learning (ML) is a branch of artificial intelligence that enables computers to learn from data and improve their performance on tasks without being explicitly programmed for every scenario. Instead of following rigid, hand-coded instructions, ML systems identify patterns in data and use those patterns to make predictions or decisions. The core idea is to train a model using a dataset, where the model learns relationships between input features and output labels. For example, in spam detection, the model learns which email features (like certain words or sender addresses) correlate with the label “spam.” ML algorithms range from simple linear models to complex neural networks, and they are widely used in applications like image recognition, natural language processing, recommendation systems, and autonomous vehicles. The learning process typically involves minimizing error during training so the model generalizes well to new, unseen data.
 
@@ -15,3 +16,6 @@ Training and testing data are two separate subsets used to develop and evaluate 
 
 6. What are Real-world Applications of ML?
 Machine Learning powers countless real-world applications across industries. In healthcare, ML models diagnose diseases from medical images, predict patient outcomes, and personalize treatment plans. In finance, they detect fraudulent transactions, assess credit risk, and automate trading strategies. Retail and e-commerce platforms use ML for recommendation systems that suggest products based on user behavior. Autonomous vehicles rely on ML for object detection, navigation, and decision-making. Natural language processing enables virtual assistants like Siri and Chatbots to understand and generate human language. In agriculture, ML helps monitor crop health and predict yields. Entertainment platforms like Netflix and Spotify use ML to curate content playlists. Manufacturing employs ML for predictive maintenance to prevent equipment failures. These applications demonstrate ML’s ability to extract insights from vast data, automate complex tasks, and drive innovation, making it a transformative technology in the modern world.
+=======
+# week3-day1-ml-fundamentals
+>>>>>>> 1d9799b4fa47767dbcf5007366b8b70e481d7fe5
