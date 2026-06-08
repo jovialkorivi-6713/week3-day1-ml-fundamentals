@@ -1,0 +1,17 @@
+    What is slope?
+    Slope (also called a coefficient) tells you how much the predicted outcome changes when a single feature increases by one unit, assuming all other features stay the same. If the slope for study hours is 2, then increasing study hours by 1 is expected to raise the predicted marks by 2 units.
+
+    What is intercept?
+    The intercept is the model’s prediction when every feature is zero. It’s the baseline value the model gives before any features contribute. For example, if the intercept is 30, the predicted marks start at 30 when all input features are zero.
+
+    What do they mean?
+    Together, slopes and the intercept define the prediction rule. The intercept sets the starting point (baseline prediction), and each slope adjusts that baseline up or down depending on the feature’s value. A positive slope increases the prediction as the feature grows; a negative slope decreases it. In practical terms, slopes show each feature’s influence on the outcome, while the intercept represents what the model predicts with no input effects.
+
+    1. What is MAE?
+    MAE is the average size of prediction errors, calculated by taking the absolute difference between each actual and predicted value and then averaging them.
+
+    2. What is R² Score?
+    R² Score tells you how much of the variation in the target variable your model explains, ranging from 0 (no explanation) to 1 (perfect explanation).
+
+    3. Is the model performing well?
+    Yes, the model performs well when MAE is low (small average errors) and R² is close to 1 (model captures most of the data’s variation)
